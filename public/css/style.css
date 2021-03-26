@@ -2,13 +2,3 @@
 @import url("_layout.css");
 @import url("_components.css");
 @import url("_laptop.css");
-
-
-
-/* ---- MEDIA QUERIES ---- */ 
-
-/* Tablet*/
-@media only screen and (max-width: 550px) {
-      
-    }
-
