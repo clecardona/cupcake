@@ -7,20 +7,20 @@ Munamii Cakery  [Munamii Cakery Original](https://munamii.com/)
 
 ## Link to the website
 
- [Cupcake website](https://cupcake-c0ffc.web.app/) 
+ - [Cupcake website](https://cupcake-c0ffc.web.app/) 
 
 
 ## Structure
 
 The website is structured in 4 web pages:
 - Home
-- bout
+- About
 - Products
 - Contact
 
 ## Credits
 
-Images : [Pinterest](https://www.pinterest.com/)
-All credits for original logo and  project : Munamii Cakery  [Munamii Cakery Original](https://munamii.com/)
+- Images : [Pinterest](https://www.pinterest.com/)
+- All credits for original logo and  project : Munamii Cakery  [Munamii Cakery Original](https://munamii.com/)
 
 
