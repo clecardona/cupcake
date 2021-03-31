@@ -10,13 +10,17 @@
     --grey220:rgb(220, 220, 220);
     --grey200:rgb(200, 200, 200);
     --grey150:rgb(150, 150, 150);
+    --grey-shadow:rgba(235, 235, 235,0.7);
+
+    --shadow:2px 2px 3px rgba(150,150,150,0.5);
+
     
 
-    --mobile-font-size:26px;
-    --mobile-nav:36px;
+    --mobile-font-size:18px;  
+    --laptop-font-size:17px;
 
-
-    --laptop-font-size:18px;
+    --header-height:90px;
+    --footer-height:80px;
 
     --lobster:  'Lobster Two', cursive;
     --kalam: 'Kalam', cursive;

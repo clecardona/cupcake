@@ -1,0 +1,24 @@
+footer {
+    background-color: red;
+    height: var(--footer-height);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    bottom: 0;
+    background-color: rgb(220, 220, 220);
+    box-shadow: 0px -2px 5px var(--grey-shadow);
+}
+
+/* --- footer logos --- */
+
+footer a img {
+    width: 50px;
+    border-radius: 10px;
+    margin: 0 5vw;
+}
+
+footer a img:hover {
+    box-shadow: 3px 3px grey;
+}
